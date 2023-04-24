@@ -1,0 +1,71 @@
+.img-film1 {
+  width: 100%;
+}
+
+#film1 {
+  background-image: url(../img/capa-de-filmes/filme1.jpg);
+  background-position: center;
+  background-size: 120%;
+  background-repeat: no-repeat;
+  cursor: pointer;
+  position: relative;
+}
+
+#film2 {
+  background-image: url(../img/capa-de-filmes/filme2.jpg);
+  background-position: center;
+  background-size: 120%;
+  background-repeat: no-repeat;
+  cursor: pointer;
+}
+#film3 {
+  background-image: url(../img/capa-de-filmes/filme3.jpg);
+  background-position: center;
+  background-size: 120%;
+  background-repeat: no-repeat;
+}
+#film4 {
+  background-image: url(../img/capa-de-filmes/filme4.jpg);
+  background-position: center;
+  background-size: 120%;
+  background-repeat: no-repeat;
+}
+#film5 {
+  background-image: url(../img/capa-de-filmes/filme5.jpg);
+  background-position: center;
+  background-size: 120%;
+  background-repeat: no-repeat;
+}
+#film6 {
+  background-image: url(../img/capa-de-filmes/filme6.jpg);
+  background-position: center;
+  background-size: 120%;
+  background-repeat: no-repeat;
+}
+#film7 {
+  background-image: url(../img/capa-de-filmes/filme7.jpg);
+  background-position: center;
+  background-size: 120%;
+  background-repeat: no-repeat;
+}
+#film8 {
+  background-image: url(../img/capa-de-filmes/filme8.jpg);
+  background-position: center;
+  background-size: 120%;
+  background-repeat: no-repeat;
+}
+#film9 {
+  background-image: url(../img/capa-de-filmes/filme9.jpg);
+  background-position: center;
+  background-size: 120%;
+  background-repeat: no-repeat;
+}
+#film10 {
+  background-image: url(../img/capa-de-filmes/filme10.jpg);
+  background-position: center;
+  background-size: 120%;
+  background-repeat: no-repeat;
+}
+a {
+  cursor: pointer;
+}
